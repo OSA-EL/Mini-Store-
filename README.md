@@ -1,4 +1,8 @@
-# Task2
+# Store Built With Angular v16
+# Note: You must download node_modules Folder (built-in folder with angular framework) before running this app
+____________________________________________________________________________________________________
+
+## Simple store app built by angular v16 and it's contain all CRUD operations
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
